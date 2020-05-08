@@ -1,0 +1,12 @@
+<application>
+  <component name="UISettings">
+    <option name="CYCLE_SCROLLING" value="false" />
+    <option name="PRESENTATION_MODE_FONT_SIZE" value="20" />
+    <option name="RIGHT_HORIZONTAL_SPLIT" value="true" />
+    <option name="SHOW_MAIN_TOOLBAR" value="true" />
+    <option name="SHOW_MEMORY_INDICATOR" value="true" />
+    <option name="showTreeIndentGuides" value="true" />
+    <option name="smoothScrolling" value="true" />
+    <option name="WIDESCREEN_SUPPORT" value="true" />
+  </component>
+</application>

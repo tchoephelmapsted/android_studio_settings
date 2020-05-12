@@ -1,0 +1,18 @@
+<templateSet group="timber">
+  <template name="timbere" value="timber.log.Timber.e(&quot;$METHOD_NAME$: $content$&quot;);" description="Timber.e(String)" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+  <template name="timberi" value="timber.log.Timber.i(&quot;$METHOD_NAME$: $content$&quot;);" description="Timber.i(String)" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+  <template name="timberw" value="timber.log.Timber.w(&quot;$METHOD_NAME$: $content$&quot;);" description="Timber.w(String)" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+  <template name="timberwtf" value="timber.log.Timber.wtf(&quot;$METHOD_NAME$: $content$&quot;);" description="Timber.wtf(String)" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>

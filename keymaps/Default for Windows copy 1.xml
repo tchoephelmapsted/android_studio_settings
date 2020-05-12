@@ -8,7 +8,20 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="Compare.SameVersion">
+    <keyboard-shortcut first-keystroke="shift ctrl c" second-keystroke="r" />
+  </action>
+  <action id="Compare.Selected">
+    <keyboard-shortcut first-keystroke="shift ctrl c" second-keystroke="shift ctrl c" />
+  </action>
+  <action id="CompareClipboardWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl c" second-keystroke="c" />
+  </action>
+  <action id="CopyPaths" />
   <action id="EditorSelectWord" />
+  <action id="Git.CompareWithBranch">
+    <keyboard-shortcut first-keystroke="shift ctrl c" second-keystroke="b" />
+  </action>
   <action id="Terminal.OpenInTerminal">
     <keyboard-shortcut first-keystroke="alt f12" />
   </action>

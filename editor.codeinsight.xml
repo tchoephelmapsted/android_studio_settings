@@ -5,7 +5,7 @@
   </component>
   <component name="CodeInsightSettings">
     <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
-    <option name="COMPLETION_CASE_SENSITIVE" value="1" />
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
     <option name="INSERT_BRACE_ON_ENTER" value="false" />
     <option name="AUTOINSERT_PAIR_BRACKET" value="false" />

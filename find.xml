@@ -2,8 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="Project Source Files" />
     <option name="defaultScopeName" value="Project Source Files" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Source Files" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*Model.java" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -11,5 +13,6 @@
     <mask>*.properties</mask>
     <mask>*model*.java</mask>
     <mask>*.java</mask>
+    <mask>*Model.java</mask>
   </component>
 </application>

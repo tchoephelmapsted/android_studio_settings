@@ -4,6 +4,7 @@
   </action>
   <action id="ActivateTODOToolWindow" />
   <action id="ActivateTerminalToolWindow" />
+  <action id="ChangesView.Diff" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
@@ -17,11 +18,21 @@
   <action id="CompareClipboardWithSelection">
     <keyboard-shortcut first-keystroke="shift ctrl c" second-keystroke="c" />
   </action>
+  <action id="CompareTwoFiles" />
   <action id="CopyPaths" />
+  <action id="Diff.ShowDiff" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorDuplicate" />
   <action id="EditorSelectWord" />
+  <action id="FileChooser.GotoDesktop" />
   <action id="Git.CompareWithBranch">
     <keyboard-shortcut first-keystroke="shift ctrl c" second-keystroke="b" />
   </action>
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SendEOF" />
   <action id="Terminal.OpenInTerminal">
     <keyboard-shortcut first-keystroke="alt f12" />
   </action>
@@ -30,10 +41,12 @@
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
   <action id="UpdateRunningApplication" />
+  <action id="XDebugger.CopyWatch" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
   </action>
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="ctrl alt f10" />
   </action>
+  <action id="openAssertEqualsDiff" />
 </keymap>

@@ -1,35 +1,66 @@
 <templateSet group="timber">
-  <template name="timbere" value="timber.log.Timber.e(&quot;$METHOD_NAME$: $content$&quot;);" description="Timber.e(String)" toReformat="true" toShortenFQNames="true">
+  <template name="loge" value="timber.log.Timber.e(&quot;$METHOD_NAME$: $content$&quot;);" description="Timber.e(String)" toReformat="true" toShortenFQNames="true">
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
     <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="timberi" value="timber.log.Timber.i(&quot;$METHOD_NAME$: $content$&quot;);" description="Timber.i(String)" toReformat="true" toShortenFQNames="true">
+  <template name="logi" value="timber.log.Timber.i(&quot;$METHOD_NAME$: $content$&quot;);" description="Timber.i(String)" toReformat="true" toShortenFQNames="true">
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
     <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="timberw" value="timber.log.Timber.w(&quot;$METHOD_NAME$: $content$&quot;);" description="Timber.w(String)" toReformat="true" toShortenFQNames="true">
+  <template name="logw" value="timber.log.Timber.w(&quot;$METHOD_NAME$: $content$&quot;);" description="Timber.w(String)" toReformat="true" toShortenFQNames="true">
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
     <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="timberwtf" value="timber.log.Timber.wtf(&quot;$METHOD_NAME$: $content$&quot;);" description="Timber.wtf(String)" toReformat="true" toShortenFQNames="true">
+  <template name="wtf" value="timber.log.Timber.wtf(&quot;$METHOD_NAME$: $content$&quot;);" description="Timber.wtf(String)" toReformat="true" toShortenFQNames="true">
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
     <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="timberd" value="timber.log.Timber.d(&quot;$METHOD_NAME$: $content$&quot;);" description="Timber.i(String)" toReformat="true" toShortenFQNames="true">
+  <template name="logd" value="timber.log.Timber.d(&quot;$METHOD_NAME$: $content$&quot;);" description="Timber.d(String)" toReformat="true" toShortenFQNames="true">
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
     <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="logv" value="timber.log.Timber.v(&quot;$METHOD_NAME$: $content$&quot;);" description="Timber.v(String)" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="logvv" value="timber.log.Timber.v(&quot;$METHOD_NAME$: $content$&quot;, $arg$);" description="Timber.v(String, arg)" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="arg" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="logdd" value="timber.log.Timber.d(&quot;$METHOD_NAME$: $content$&quot;, $arg$);" description="Timber.d(String, arg)" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="arg" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="logii" value="timber.log.Timber.i(&quot;$METHOD_NAME$: $content$&quot;, $arg$);" description="Timber.i(String,arg)" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="arg" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
     </context>

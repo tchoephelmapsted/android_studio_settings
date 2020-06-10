@@ -4,6 +4,11 @@
       <entry key="ChangesView">
         <PlaceSettings />
       </entry>
+      <entry key="Default">
+        <PlaceSettings>
+          <option name="HIGHLIGHTING_LEVEL" value="SIMPLE" />
+        </PlaceSettings>
+      </entry>
     </option>
   </component>
 </application>

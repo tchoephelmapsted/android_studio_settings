@@ -1,7 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="Kotlin/Specify explicit lambda signature" />
-    <ignoreAction name="Java/Other/Make Call Chain Into Call Sequence" />
-    <ignoreAction name="Java/Refactorings/Introduce local variable" />
-  </component>
-</application>

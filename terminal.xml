@@ -1,6 +1,5 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myPasteOnMiddleMouseButton" value="false" />
     <option name="myShellPath" value="C:\Program Files\Git\bin\bash.exe" />
   </component>
 </application>

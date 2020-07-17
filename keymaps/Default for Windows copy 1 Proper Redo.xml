@@ -1,4 +1,7 @@
 <keymap version="1" name="Default for Windows copy 1 Proper Redo" parent="$default">
+  <action id="$Cut">
+    <keyboard-shortcut first-keystroke="ctrl x" />
+  </action>
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="shift ctrl z" />
     <keyboard-shortcut first-keystroke="shift alt back_space" />
@@ -24,8 +27,14 @@
     <keyboard-shortcut first-keystroke="shift ctrl c" second-keystroke="c" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="ConsoleView.ClearAll">
+    <keyboard-shortcut first-keystroke="shift delete" second-keystroke="shift delete" />
+  </action>
   <action id="CopyPaths" />
   <action id="Diff.ShowDiff" />
+  <action id="EditorCut">
+    <keyboard-shortcut first-keystroke="ctrl x" />
+  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>

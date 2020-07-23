@@ -2,11 +2,21 @@
   <component name="ConsoleFoldingSettings">
     <option name="addedPositive">
       <list>
+        <option value="AdrenoGLES:" />
         <option value="D/InputMethodManager:" />
         <option value="D/InputTransport:" />
         <option value="D/OpenGLRenderer:" />
         <option value="D/ViewRootImpl" />
+        <option value="EPDG" />
+        <option value="Gralloc3:" />
+        <option value="I/AdrenoGLES" />
+        <option value="I/InputMethodManager" />
+        <option value="KeyguardUpdateMonitor" />
         <option value="MultiWindowDecorSupport:" />
+        <option value="NetworkController.MobileSignalController" />
+        <option value="SamsungAlarmManager" />
+        <option value="SamsungTelephonyUIProxy" />
+        <option value="ANDR-PERF:" />
       </list>
     </option>
   </component>

@@ -1,0 +1,13 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="D/InputMethodManager:" />
+        <option value="D/InputTransport:" />
+        <option value="D/OpenGLRenderer:" />
+        <option value="D/ViewRootImpl" />
+        <option value="MultiWindowDecorSupport:" />
+      </list>
+    </option>
+  </component>
+</application>

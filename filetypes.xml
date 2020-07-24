@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping ext="webp" type="Image" />
       <mapping pattern="scratch" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
     </extensionMap>
   </component>

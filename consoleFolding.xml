@@ -3,6 +3,7 @@
     <option name="addedPositive">
       <list>
         <option value="AdrenoGLES:" />
+        <option value="ANDR-PERF:" />
         <option value="D/InputMethodManager:" />
         <option value="D/InputTransport:" />
         <option value="D/OpenGLRenderer:" />
@@ -16,7 +17,6 @@
         <option value="NetworkController.MobileSignalController" />
         <option value="SamsungAlarmManager" />
         <option value="SamsungTelephonyUIProxy" />
-        <option value="ANDR-PERF:" />
       </list>
     </option>
   </component>

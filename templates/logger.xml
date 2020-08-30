@@ -1,0 +1,68 @@
+<templateSet group="logger">
+  <template name="loggerd" value="Logger.d(&quot;$METHOD_NAME$: $content$&quot;);" description="Logger.d(String)" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="loggerdd" value="Logger.d(&quot;$METHOD_NAME$: $content$&quot;, $arg$);" description="Logger.d(String, arg)" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="arg" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="loggere" value="Logger.e(&quot;$METHOD_NAME$: $content$&quot;);" description="Logger.e(String)" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="loggeri" value="Logger.i(&quot;$METHOD_NAME$: $content$&quot;);" description="Logger.i(String)" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="loggerii" value="Logger.i(&quot;$METHOD_NAME$: $content$&quot;, $arg$);" description="Logger.i(String,arg)" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="arg" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="loggerv" value="Logger.v(&quot;$METHOD_NAME$: $content$&quot;);" description="Logger.v(String)" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="loggervv" value="Logger.v(&quot;$METHOD_NAME$: $content$&quot;, $arg$);" description="Logger.v(String, arg)" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="arg" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="loggerw" value="Logger.w(&quot;$METHOD_NAME$: $content$&quot;);" description="Logger.w(String)" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="loggerwtf" value="Logger.wtf(&quot;$METHOD_NAME$: $content$&quot;);" description="Logger.wtf(String)" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

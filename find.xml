@@ -14,7 +14,7 @@
     <mask>*.xml</mask>
     <mask>*.java, build.gradle</mask>
     <mask>*.cpp</mask>
-    <mask>*.java</mask>
     <mask>*.gradle</mask>
+    <mask>*.java</mask>
   </component>
 </application>

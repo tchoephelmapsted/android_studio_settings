@@ -1,10 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'android-mall-mapp'" />
-    <option name="defaultScopeName" value="Project 'android-mall-mapp'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'android-mall-mapp'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -12,11 +15,11 @@
     <mask>*model*.java</mask>
     <mask>*Model.java</mask>
     <mask>*.java, build.gradle</mask>
-    <mask>*.xml</mask>
     <mask>strings.xml</mask>
     <mask>*.gradle</mask>
     <mask>*.cpp</mask>
     <mask>*.java,*.cpp</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>

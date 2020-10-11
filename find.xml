@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.cpp" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -11,11 +12,11 @@
     <mask>*Model.java</mask>
     <mask>*.java, build.gradle</mask>
     <mask>strings.xml</mask>
-    <mask>*.cpp</mask>
     <mask>*.java,*.cpp</mask>
     <mask>*.xml</mask>
     <mask>*.xml, *.java</mask>
     <mask>*.java</mask>
     <mask>*.gradle</mask>
+    <mask>*.cpp</mask>
   </component>
 </application>

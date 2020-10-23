@@ -47,7 +47,7 @@
       <entry key="Default">
         <PlaceSettings>
           <option name="HIGHLIGHTING_LEVEL" value="SIMPLE" />
-          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
+          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
         </PlaceSettings>
       </entry>
       <entry key="Merge">

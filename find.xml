@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory 'C:\Users\t\work\LIntel\LocIntelSdk\android-sdk\android-sdk-locintel\android-sdk-locintel\src\main\java [android-sdk-locintel]'" />
-    <option name="defaultScopeName" value="Directory 'C:\Users\t\work\LIntel\LocIntelSdk\android-sdk\android-sdk-locintel\android-sdk-locintel\src\main\java [android-sdk-locintel]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory 'C:\Users\t\work\LIntel\LocIntelSdk\android-sdk\android-sdk-locintel\android-sdk-locintel\src\main\java [android-sdk-locintel]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.java" />
     <mask>*.css</mask>
     <mask>*.html</mask>

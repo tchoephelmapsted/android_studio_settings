@@ -1,5 +1,5 @@
 <templateSet group="AndroidComments">
-  <template name="todo" value="// TODO: $date$ To be implemented $todo$ " description="adds // TODO" toReformat="true" toShortenFQNames="true">
+  <template name="todo" value="// TODO: $date$ To be implemented METADATASPLIT $todo$ " description="adds // TODO" toReformat="true" toShortenFQNames="true">
     <variable name="date" expression="date()" defaultValue="" alwaysStopAt="false" />
     <variable name="todo" expression="" defaultValue="" alwaysStopAt="true" />
     <context />

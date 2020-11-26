@@ -7,6 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -19,9 +20,9 @@
     <mask>*.xml, *.java</mask>
     <mask>*</mask>
     <mask>*.xmlCANADA</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.gradle</mask>
     <mask>*.cpp</mask>
+    <mask>*.xml</mask>
   </component>
 </application>

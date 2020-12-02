@@ -65,7 +65,7 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="notimplemented" value="Logger.e(&quot;$METHOD_NAME$: Not implemented&quot;);" description="Logger.e(&quot;Not implemented&quot;);" toReformat="true" toShortenFQNames="true">
+  <template name="lono" value="Logger.e(&quot;$METHOD_NAME$: Not implemented&quot;);" description="Logger.e(&quot;Not implemented&quot;);" toReformat="true" toShortenFQNames="true">
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />

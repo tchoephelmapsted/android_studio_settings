@@ -60,6 +60,9 @@
           <option name="USE_SOFT_WRAPS" value="true" />
         </PlaceSettings>
       </entry>
+      <entry key="VcsLogView">
+        <PlaceSettings />
+      </entry>
     </option>
     <option name="SHARED_SETTINGS">
       <SharedSettings>

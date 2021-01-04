@@ -17,9 +17,9 @@
     <mask>*.xml, *.java</mask>
     <mask>*</mask>
     <mask>*.xmlCANADA</mask>
-    <mask>*.gradle</mask>
     <mask>*.xml</mask>
     <mask>*.cpp</mask>
     <mask>*.java</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>

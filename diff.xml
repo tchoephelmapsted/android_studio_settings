@@ -61,7 +61,11 @@
         </PlaceSettings>
       </entry>
       <entry key="VcsLogView">
-        <PlaceSettings />
+        <PlaceSettings>
+          <option name="HIGHLIGHT_POLICY" value="BY_LINE" />
+          <option name="IGNORE_POLICY" value="TRIM_WHITESPACES" />
+          <option name="USE_SOFT_WRAPS" value="true" />
+        </PlaceSettings>
       </entry>
     </option>
     <option name="SHARED_SETTINGS">

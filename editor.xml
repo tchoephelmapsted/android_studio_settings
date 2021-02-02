@@ -45,6 +45,11 @@
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
     <pattern icon="important" pattern="\bTODO:.*METADATASPLIT.*" />
+    <pattern icon="important" useCustomColors="true" pattern="\b(deleteme|delete\sme)\b.*">
+      <option name="FOREGROUND" value="c04195" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="977ab" />
+    </pattern>
   </component>
   <component name="XmlFoldingSettings">
     <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />

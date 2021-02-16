@@ -7,6 +7,7 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.txt" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -22,7 +23,7 @@
     <mask>*.xml</mask>
     <mask>*.cpp</mask>
     <mask>*.gradle</mask>
-    <mask>*.txt</mask>
     <mask>*.java</mask>
+    <mask>*.txt</mask>
   </component>
 </application>

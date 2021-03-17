@@ -64,7 +64,9 @@
     <keyboard-shortcut first-keystroke="ctrl 0" />
   </action>
   <action id="EditorSelectWord" />
-  <action id="ExpandAll" />
+  <action id="ExpandAll">
+    <keyboard-shortcut first-keystroke="shift multiply" />
+  </action>
   <action id="ExpandExpandableComponent">
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>

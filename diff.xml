@@ -51,7 +51,6 @@
       <entry key="Default">
         <PlaceSettings>
           <option name="HIGHLIGHTING_LEVEL" value="SIMPLE" />
-          <option name="HIGHLIGHT_POLICY" value="DO_NOT_HIGHLIGHT" />
         </PlaceSettings>
       </entry>
       <entry key="Merge">

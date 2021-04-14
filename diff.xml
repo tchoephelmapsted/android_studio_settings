@@ -63,8 +63,9 @@
       </entry>
       <entry key="VcsLogView">
         <PlaceSettings>
+          <option name="BREADCRUMBS_PLACEMENT" value="TOP" />
           <option name="HIGHLIGHT_POLICY" value="BY_LINE" />
-          <option name="IGNORE_POLICY" value="TRIM_WHITESPACES" />
+          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
           <option name="USE_SOFT_WRAPS" value="true" />
         </PlaceSettings>
       </entry>

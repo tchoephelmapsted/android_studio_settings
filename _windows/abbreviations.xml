@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="Vcs.ShowTabbedFileHistory">
+        <abbreviation name="githistory" />
+      </action>
+    </abbreviations>
+  </component>
+</application>

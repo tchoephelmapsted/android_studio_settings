@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'C:\Users\t\work\1\android-sdk\android-sdk-core\src\main\java\com\mapsted\positioning\MapstedCoreApi.java [android-mall-mapp.sdk-core]'" />
-    <option name="defaultScopeName" value="File 'C:\Users\t\work\1\android-sdk\android-sdk-core\src\main\java\com\mapsted\positioning\MapstedCoreApi.java [android-mall-mapp.sdk-core]'" />
+    <option name="customScope" value="Project 'android-mall-mapp'" />
+    <option name="defaultScopeName" value="Project 'android-mall-mapp'" />
     <option name="localRegularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="File 'C:\Users\t\work\1\android-sdk\android-sdk-core\src\main\java\com\mapsted\positioning\MapstedCoreApi.java [android-mall-mapp.sdk-core]'" />
+    <option name="SEARCH_SCOPE" value="Project 'android-mall-mapp'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>

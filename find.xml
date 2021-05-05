@@ -23,7 +23,7 @@
     <mask>*.java,*.xml,*.gradle</mask>
     <mask>*.java</mask>
     <mask>*.cpp</mask>
-    <mask>*.xml</mask>
     <mask>*.gradle</mask>
+    <mask>*.xml</mask>
   </component>
 </application>

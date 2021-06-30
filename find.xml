@@ -25,5 +25,6 @@
     <mask>*.gradle</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*viewModel.java</mask>
   </component>
 </application>

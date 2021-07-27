@@ -86,6 +86,9 @@
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
   <action id="Terminal.OpenInTerminal">
@@ -96,6 +99,7 @@
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
   <action id="UpdateRunningApplication" />
+  <action id="Vcs.UpdateProject" />
   <action id="XDebugger.CopyWatch" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />

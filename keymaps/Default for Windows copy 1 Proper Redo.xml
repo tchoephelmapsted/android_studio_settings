@@ -91,6 +91,9 @@
   </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="Terminal.OpenInTerminal">
     <keyboard-shortcut first-keystroke="alt f12" />
   </action>

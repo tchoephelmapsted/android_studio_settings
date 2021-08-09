@@ -29,7 +29,7 @@
     <mask>*.cpp</mask>
     <mask>*.xml</mask>
     <mask>*.dexguard,*.proguard</mask>
-    <mask>build.gradle</mask>
     <mask>*dexguard*, *proguard*</mask>
+    <mask>build.gradle</mask>
   </component>
 </application>

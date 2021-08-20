@@ -27,12 +27,12 @@
     <mask>*.gradle</mask>
     <mask>*viewModel.java</mask>
     <mask>*.cpp</mask>
-    <mask>*.xml</mask>
     <mask>*.dexguard,*.proguard</mask>
     <mask>*dexguard*, *proguard*</mask>
     <mask>build.gradle</mask>
     <mask>*viewmodel.java</mask>
     <mask>*.txt</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>

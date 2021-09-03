@@ -30,9 +30,9 @@
     <mask>*dexguard*, *proguard*</mask>
     <mask>build.gradle</mask>
     <mask>*viewmodel.java</mask>
-    <mask>*.txt</mask>
     <mask>*.gradle</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.txt</mask>
   </component>
 </application>

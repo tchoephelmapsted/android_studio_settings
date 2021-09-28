@@ -37,5 +37,6 @@
     <mask>*fragment.java</mask>
     <mask>build.gradle</mask>
     <mask>*.java</mask>
+    <mask>dexguard*, prog*</mask>
   </component>
 </application>

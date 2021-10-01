@@ -9,6 +9,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -30,7 +31,6 @@
     <mask>*dexguard*, *proguard*</mask>
     <mask>*viewmodel.java</mask>
     <mask>*.txt</mask>
-    <mask>*.xml</mask>
     <mask>proguard</mask>
     <mask>dexguard*.txt</mask>
     <mask>*.gradle</mask>
@@ -38,5 +38,6 @@
     <mask>build.gradle</mask>
     <mask>*.java</mask>
     <mask>dexguard*, prog*</mask>
+    <mask>*.xml</mask>
   </component>
 </application>

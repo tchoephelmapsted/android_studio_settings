@@ -9,7 +9,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.html</mask>
+    <option name="FILE_MASK" value="*Fragment*.java" />
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*model*.java</mask>
@@ -39,5 +39,6 @@
     <mask>*.gradle</mask>
     <mask>*Fragment.java</mask>
     <mask>*sqlite*.java</mask>
+    <mask>*Fragment*.java</mask>
   </component>
 </application>

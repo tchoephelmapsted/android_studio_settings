@@ -3,6 +3,7 @@
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
     <option name="compactTreeIndents" value="true" />
     <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="10024" />
+    <option name="CYCLE_SCROLLING" value="false" />
     <option name="FULL_PATHS_IN_TITLE_BAR" value="true" />
     <option name="LANGUAGE_FLAGS" value="true" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />

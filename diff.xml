@@ -38,7 +38,8 @@
           <option name="BREADCRUMBS_PLACEMENT" value="BOTTOM" />
           <option name="HIGHLIGHTING_LEVEL" value="ADVANCED" />
           <option name="HIGHLIGHT_POLICY" value="BY_LINE" />
-          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
+          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
+          <option name="SHOW_WHITESPACES" value="true" />
           <option name="USE_SOFT_WRAPS" value="true" />
         </PlaceSettings>
       </entry>
@@ -51,6 +52,8 @@
       <entry key="Default">
         <PlaceSettings>
           <option name="HIGHLIGHTING_LEVEL" value="SIMPLE" />
+          <option name="HIGHLIGHT_POLICY" value="BY_WORD_SPLIT" />
+          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
         </PlaceSettings>
       </entry>
       <entry key="Merge">
@@ -65,7 +68,7 @@
         <PlaceSettings>
           <option name="BREADCRUMBS_PLACEMENT" value="TOP" />
           <option name="HIGHLIGHT_POLICY" value="BY_LINE" />
-          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
+          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
           <option name="USE_SOFT_WRAPS" value="true" />
         </PlaceSettings>
       </entry>

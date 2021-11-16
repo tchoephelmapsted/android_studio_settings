@@ -9,11 +9,6 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.css</mask>
-    <mask>*.html</mask>
-    <mask>*.jsp</mask>
-    <mask>*.properties</mask>
-    <mask>*model*.java</mask>
     <mask>*Model.java</mask>
     <mask>*.java, build.gradle</mask>
     <mask>strings.xml</mask>
@@ -21,14 +16,28 @@
     <mask>*.xml, *.java</mask>
     <mask>*</mask>
     <mask>*.xmlCANADA</mask>
-    <mask>*.txt</mask>
     <mask>*.java,*.xml,*.gradle</mask>
     <mask>MapFragment.java</mask>
     <mask>dexguard.txt</mask>
-    <mask>*.gradle</mask>
     <mask>*viewModel.java</mask>
-    <mask>*.xml</mask>
-    <mask>*.java</mask>
     <mask>*.cpp</mask>
+    <mask>*.dexguard,*.proguard</mask>
+    <mask>*dexguard*, *proguard*</mask>
+    <mask>*viewmodel.java</mask>
+    <mask>proguard</mask>
+    <mask>dexguard*.txt</mask>
+    <mask>*fragment.java</mask>
+    <mask>*.java</mask>
+    <mask>dexguard*, prog*</mask>
+    <mask>*sqlite*.java</mask>
+    <mask>*Fragment*.java</mask>
+    <mask>Mapsted*.java</mask>
+    <mask>*Fragment.java</mask>
+    <mask>*.txt</mask>
+    <mask>*.txt,*.pro</mask>
+    <mask>build.gradle</mask>
+    <mask>dexguard*, proguard*</mask>
+    <mask>*.gradle</mask>
+    <mask>*.xml</mask>
   </component>
 </application>

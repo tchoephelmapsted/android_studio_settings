@@ -52,7 +52,7 @@
       <entry key="Default">
         <PlaceSettings>
           <option name="HIGHLIGHTING_LEVEL" value="SIMPLE" />
-          <option name="HIGHLIGHT_POLICY" value="BY_LINE" />
+          <option name="HIGHLIGHT_POLICY" value="BY_CHAR" />
         </PlaceSettings>
       </entry>
       <entry key="Merge">

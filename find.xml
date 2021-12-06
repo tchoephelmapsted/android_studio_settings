@@ -9,7 +9,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.gradle" />
     <mask>*.java,*.cpp</mask>
     <mask>*.xml, *.java</mask>
     <mask>*</mask>
@@ -33,12 +33,12 @@
     <mask>*.txt</mask>
     <mask>*.txt,*.pro</mask>
     <mask>dexguard*, proguard*</mask>
-    <mask>*.gradle</mask>
     <mask>*.dexguard, *.proguard</mask>
     <mask>*.java</mask>
     <mask>LibraryInfo.java</mask>
     <mask>build.gradle</mask>
     <mask>*.xml``</mask>
     <mask>*.xml</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>

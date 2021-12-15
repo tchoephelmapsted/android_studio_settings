@@ -15,7 +15,6 @@
     <entry key="undo.documentUndoLimit" value="200" />
     <entry key="toolwindow.active.tab.contrast.background.color" value="79,133,172" />
     <entry key="editor.full.width.scrollbar" value="true" />
-    <entry key="vcs.annotations.preload" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">

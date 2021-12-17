@@ -9,6 +9,8 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.java,*.cpp</mask>
+    <mask>*.xml, *.java</mask>
     <mask>*</mask>
     <mask>*.xmlCANADA</mask>
     <mask>*.java,*.xml,*.gradle</mask>
@@ -34,10 +36,8 @@
     <mask>*.dexguard, *.proguard</mask>
     <mask>*.java</mask>
     <mask>LibraryInfo.java</mask>
-    <mask>build.gradle</mask>
     <mask>*.xml``</mask>
     <mask>*.xml</mask>
-    <mask>*.gradle.*</mask>
-    <mask>build.*</mask>
+    <mask>build.gradle</mask>
   </component>
 </application>

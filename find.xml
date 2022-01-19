@@ -7,13 +7,13 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.cpp" />
     <mask>*</mask>
     <mask>*.xmlCANADA</mask>
     <mask>*.java,*.xml,*.gradle</mask>
     <mask>MapFragment.java</mask>
     <mask>dexguard.txt</mask>
     <mask>*viewModel.java</mask>
-    <mask>*.cpp</mask>
     <mask>*.dexguard,*.proguard</mask>
     <mask>*dexguard*, *proguard*</mask>
     <mask>*viewmodel.java</mask>
@@ -37,5 +37,6 @@
     <mask>proguard</mask>
     <mask>dexguard*</mask>
     <mask>*.java</mask>
+    <mask>*.cpp</mask>
   </component>
 </application>

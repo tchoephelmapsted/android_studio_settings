@@ -9,19 +9,15 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.java,*.cpp</mask>
-    <mask>*.xml, *.java</mask>
-    <mask>*</mask>
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.xmlCANADA</mask>
     <mask>*.java,*.xml,*.gradle</mask>
     <mask>MapFragment.java</mask>
     <mask>dexguard.txt</mask>
     <mask>*viewModel.java</mask>
-    <mask>*.cpp</mask>
     <mask>*.dexguard,*.proguard</mask>
     <mask>*dexguard*, *proguard*</mask>
     <mask>*viewmodel.java</mask>
-    <mask>proguard</mask>
     <mask>dexguard*.txt</mask>
     <mask>*fragment.java</mask>
     <mask>dexguard*, prog*</mask>
@@ -32,12 +28,17 @@
     <mask>*.txt</mask>
     <mask>*.txt,*.pro</mask>
     <mask>dexguard*, proguard*</mask>
-    <mask>*.gradle</mask>
     <mask>*.dexguard, *.proguard</mask>
-    <mask>*.java</mask>
     <mask>LibraryInfo.java</mask>
     <mask>*.xml``</mask>
-    <mask>*.xml</mask>
+    <mask>dexguard.*</mask>
+    <mask>proguard</mask>
+    <mask>dexguard*</mask>
+    <mask>*.cpp</mask>
     <mask>build.gradle</mask>
+    <mask>*.gradle</mask>
+    <mask>*.xml</mask>
+    <mask>*.cpp, *.h</mask>
+    <mask>*.java</mask>
   </component>
 </application>

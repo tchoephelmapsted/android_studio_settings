@@ -7,6 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.gradle" />
     <mask>MapFragment.java</mask>
     <mask>dexguard.txt</mask>
     <mask>*viewModel.java</mask>
@@ -34,8 +35,8 @@
     <mask>*.cpp, *.h</mask>
     <mask>*.java, !CoreApi.java</mask>
     <mask>*.java, !CoreApi.java, !MapstedCoreApi.java</mask>
-    <mask>*.gradle</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>

@@ -3,7 +3,7 @@
     <property name="created">2020-07-27T12:28:48</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.0.1.0</property>
-    <property name="modified">2021-10-14T12:07:48</property>
+    <property name="modified">2022-02-25T11:04:26</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
@@ -12,6 +12,11 @@
     </option>
     <option name="KOTLIN_LABEL">
       <value />
+    </option>
+    <option name="LOGCAT_ASSERT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="bb4485" />
+      </value>
     </option>
     <option name="LOGCAT_DEBUG_OUTPUT">
       <value>

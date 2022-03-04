@@ -3,7 +3,7 @@
     <property name="created">2020-07-27T12:28:48</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.0.1.0</property>
-    <property name="modified">2022-03-04T11:27:14</property>
+    <property name="modified">2022-03-04T14:42:55</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
@@ -15,17 +15,22 @@
     </option>
     <option name="LOGCAT_ASSERT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ef6bde" />
+        <option name="FOREGROUND" value="ef99e4" />
       </value>
     </option>
     <option name="LOGCAT_DEBUG_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="1b85d3" />
+        <option name="FOREGROUND" value="6495d3" />
+      </value>
+    </option>
+    <option name="LOGCAT_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff9487" />
       </value>
     </option>
     <option name="LOGCAT_INFO_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="43bb2d" />
+        <option name="FOREGROUND" value="60bb55" />
       </value>
     </option>
     <option name="LOGCAT_VERBOSE_OUTPUT">
@@ -35,7 +40,7 @@
     </option>
     <option name="LOGCAT_WARNING_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="d1c512" />
+        <option name="FOREGROUND" value="d1cc60" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">

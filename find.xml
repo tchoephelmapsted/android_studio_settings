@@ -7,7 +7,6 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>dexguard.txt</mask>
     <mask>*viewModel.java</mask>
     <mask>*.dexguard,*.proguard</mask>
     <mask>*dexguard*, *proguard*</mask>
@@ -37,5 +36,6 @@
     <mask>*.java</mask>
     <mask>*.cpp</mask>
     <mask>*.h</mask>
+    <mask>*response.java</mask>
   </component>
 </application>

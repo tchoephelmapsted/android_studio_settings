@@ -3,12 +3,33 @@
     <property name="created">2020-07-27T12:28:48</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.0.1.0</property>
-    <property name="modified">2022-03-04T14:42:55</property>
+    <property name="modified">2022-03-21T13:31:24</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
+    <option name="CTRL_CLICKABLE">
+      <value>
+        <option name="FOREGROUND" value="2f5281" />
+        <option name="EFFECT_COLOR" value="315788" />
+        <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="1a4f8f" />
+        <option name="EFFECT_COLOR" value="1a5091" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="HTML_CODE">
       <value />
+    </option>
+    <option name="HYPERLINK_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="1a4f8e" />
+        <option name="EFFECT_COLOR" value="174882" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
     </option>
     <option name="KOTLIN_LABEL">
       <value />

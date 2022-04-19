@@ -91,4 +91,10 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="loggerdst" value="Logger.dStacktrace(&quot;$METHOD_NAME$: Stack trace&quot;);" description="Logger stack trace" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>

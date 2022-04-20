@@ -2,18 +2,13 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localRegularExpressions" value="true" />
+    <option name="localWholeWordsOnly" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
-    <mask>*.xmlCANADA</mask>
-    <mask>*.java,*.xml,*.gradle</mask>
-    <mask>MapFragment.java</mask>
-    <mask>dexguard.txt</mask>
     <mask>*viewModel.java</mask>
     <mask>*.dexguard,*.proguard</mask>
     <mask>*dexguard*, *proguard*</mask>
@@ -24,7 +19,6 @@
     <mask>*sqlite*.java</mask>
     <mask>*Fragment*.java</mask>
     <mask>Mapsted*.java</mask>
-    <mask>*Fragment.java</mask>
     <mask>*.txt</mask>
     <mask>*.txt,*.pro</mask>
     <mask>dexguard*, proguard*</mask>
@@ -34,11 +28,16 @@
     <mask>dexguard.*</mask>
     <mask>proguard</mask>
     <mask>dexguard*</mask>
-    <mask>*.cpp</mask>
     <mask>build.gradle</mask>
-    <mask>*.gradle</mask>
-    <mask>*.xml</mask>
     <mask>*.cpp, *.h</mask>
+    <mask>*.java, !CoreApi.java</mask>
+    <mask>*.java, !CoreApi.java, !MapstedCoreApi.java</mask>
+    <mask>*.h</mask>
+    <mask>*response.java</mask>
+    <mask>*.cpp</mask>
+    <mask>*.xml</mask>
+    <mask>*.gradle</mask>
     <mask>*.java</mask>
+    <mask>*Fragment.java</mask>
   </component>
 </application>

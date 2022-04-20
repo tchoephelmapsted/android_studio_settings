@@ -3,24 +3,55 @@
     <property name="created">2020-07-27T12:28:48</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.0.1.0</property>
-    <property name="modified">2021-10-14T12:07:48</property>
+    <property name="modified">2022-03-21T13:47:43</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
+    <option name="CTRL_CLICKABLE">
+      <value>
+        <option name="FOREGROUND" value="817e81" />
+        <option name="EFFECT_COLOR" value="3c3f41" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="888f8f" />
+        <option name="EFFECT_COLOR" value="1a5091" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="HTML_CODE">
       <value />
+    </option>
+    <option name="HYPERLINK_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="7c7f8e" />
+        <option name="EFFECT_COLOR" value="174882" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
     </option>
     <option name="KOTLIN_LABEL">
       <value />
     </option>
+    <option name="LOGCAT_ASSERT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ef99e4" />
+      </value>
+    </option>
     <option name="LOGCAT_DEBUG_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="1b85d3" />
+        <option name="FOREGROUND" value="6495d3" />
+      </value>
+    </option>
+    <option name="LOGCAT_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff9487" />
       </value>
     </option>
     <option name="LOGCAT_INFO_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="43bb2d" />
+        <option name="FOREGROUND" value="60bb55" />
       </value>
     </option>
     <option name="LOGCAT_VERBOSE_OUTPUT">
@@ -30,7 +61,7 @@
     </option>
     <option name="LOGCAT_WARNING_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="d1c512" />
+        <option name="FOREGROUND" value="d1cc60" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">

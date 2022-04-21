@@ -3,7 +3,7 @@
     <property name="created">2020-07-27T12:28:48</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.0.1.0</property>
-    <property name="modified">2022-03-21T13:47:43</property>
+    <property name="modified">2022-04-20T14:06:52</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
@@ -12,6 +12,12 @@
         <option name="FOREGROUND" value="817e81" />
         <option name="EFFECT_COLOR" value="3c3f41" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="577253" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">

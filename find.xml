@@ -37,7 +37,7 @@
     <mask>*.gradle</mask>
     <mask>*.java</mask>
     <mask>*Fragment.java</mask>
-    <mask>build.gradle</mask>
     <mask>*.xml</mask>
+    <mask>build.gradle</mask>
   </component>
 </application>

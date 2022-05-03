@@ -7,6 +7,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.dexguard,*.proguard</mask>
     <mask>*dexguard*, *proguard*</mask>
     <mask>*viewmodel.java</mask>
@@ -35,7 +36,7 @@
     <mask>*.xml</mask>
     <mask>build.gradle</mask>
     <mask>*.gradle</mask>
-    <mask>*.java</mask>
     <mask>*.pro</mask>
+    <mask>*.java</mask>
   </component>
 </application>

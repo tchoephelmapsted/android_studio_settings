@@ -2,10 +2,12 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="prog*.pro" />
+    <option name="FILE_MASK" value="build.gradle" />
     <mask>*viewmodel.java</mask>
     <mask>dexguard*.txt</mask>
     <mask>*fragment.java</mask>
@@ -33,8 +35,8 @@
     <mask>*.pro</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
-    <mask>build.gradle</mask>
     <mask>assumenoside*.pro</mask>
     <mask>prog*.pro</mask>
+    <mask>build.gradle</mask>
   </component>
 </application>

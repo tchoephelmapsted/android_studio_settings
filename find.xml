@@ -3,8 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="build.gradle" />
     <mask>*.dexguard,*.proguard</mask>
     <mask>*dexguard*, *proguard*</mask>
     <mask>*viewmodel.java</mask>
@@ -30,10 +33,10 @@
     <mask>*response.java</mask>
     <mask>*.cpp</mask>
     <mask>*Fragment.java</mask>
-    <mask>build.gradle</mask>
     <mask>*.gradle</mask>
     <mask>*.pro</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>build.gradle</mask>
   </component>
 </application>

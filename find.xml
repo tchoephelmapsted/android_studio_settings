@@ -9,6 +9,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.gradle" />
     <mask>*fragment.java</mask>
     <mask>dexguard*, prog*</mask>
     <mask>*sqlite*.java</mask>
@@ -30,7 +31,6 @@
     <mask>*response.java</mask>
     <mask>*.cpp</mask>
     <mask>*Fragment.java</mask>
-    <mask>*.gradle</mask>
     <mask>*.pro</mask>
     <mask>assumenoside*.pro</mask>
     <mask>prog*.pro</mask>
@@ -39,5 +39,6 @@
     <mask>*.java</mask>
     <mask>assume*.pro</mask>
     <mask>*.xml</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>

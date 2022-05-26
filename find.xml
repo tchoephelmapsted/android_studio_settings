@@ -4,10 +4,11 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*fragment.java</mask>
     <mask>dexguard*, prog*</mask>
     <mask>*sqlite*.java</mask>
     <mask>*Fragment*.java</mask>
@@ -37,5 +38,6 @@
     <mask>assume*.pro</mask>
     <mask>*.gradle</mask>
     <mask>*.xml</mask>
+    <mask>strings.xml</mask>
   </component>
 </application>

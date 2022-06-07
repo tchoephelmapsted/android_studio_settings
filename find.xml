@@ -2,14 +2,11 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
     <mask>dexguard*, prog*</mask>
     <mask>*sqlite*.java</mask>
     <mask>*Fragment*.java</mask>
@@ -35,10 +32,10 @@
     <mask>prog*.pro</mask>
     <mask>build.gradle</mask>
     <mask>library-release.pro</mask>
+    <mask>*.java</mask>
     <mask>assume*.pro</mask>
     <mask>strings.xml</mask>
     <mask>*.xml</mask>
     <mask>*.gradle</mask>
-    <mask>*.java</mask>
   </component>
 </application>

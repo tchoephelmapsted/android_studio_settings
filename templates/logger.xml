@@ -14,14 +14,14 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="loggeri" value="Logger.i(&quot;$METHOD_NAME$: $content$&quot;);" description="Logger.i(String)" toReformat="true" toShortenFQNames="true">
+  <template name="loggerii" value="Logger.i(&quot;$METHOD_NAME$: $content$&quot;);" description="Logger.i(String)" toReformat="true" toShortenFQNames="true">
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
     <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="loggerii" value="Logger.i(&quot;$METHOD_NAME$: $content$&quot;, $arg$);" description="Logger.i(String,arg)" toReformat="true" toShortenFQNames="true">
+  <template name="loggeri" value="Logger.i(&quot;$METHOD_NAME$: $content$&quot;, $arg$);" description="Logger.i(String,arg)" toReformat="true" toShortenFQNames="true">
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
     <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="arg" expression="" defaultValue="" alwaysStopAt="true" />
@@ -29,21 +29,20 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="loggerv" value="Logger.v(&quot;$METHOD_NAME$: $content$&quot;);" description="Logger.v(String)" toReformat="true" toShortenFQNames="true">
+  <template name="loggervv" value="Logger.v(&quot;$METHOD_NAME$: $content$&quot;);" description="Logger.v(String)" toReformat="true" toShortenFQNames="true">
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
     <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="loggerw" value="Logger.w(&quot;$METHOD_NAME$: $content$&quot;);" description="Logger.w(String)" toReformat="true" toShortenFQNames="true">
+  <template name="loggerw" value="Logger.w(e,&quot;$METHOD_NAME$&quot;);" description="Logger.w(String)" toReformat="true" toShortenFQNames="true">
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
-    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="loggerwtf" value="Logger.wtf(&quot;$METHOD_NAME$: $content$&quot;);" description="Logger.wtf(String)" toReformat="true" toShortenFQNames="true">
+  <template name="loggerwtff" value="Logger.wtf(&quot;$METHOD_NAME$: $content$&quot;);" description="Logger.wtf(String)" toReformat="true" toShortenFQNames="true">
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
     <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -68,15 +67,14 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="loggerdd" value="Logger.d(&quot;$METHOD_NAME$: $content$ &quot;, $parameterNames$);" description="Logger.d(String)" toReformat="true" toShortenFQNames="true">
+  <template name="loggerdd" value="Logger.d(&quot;$METHOD_NAME$: $content$ &quot;);" description="Logger.d(String)" toReformat="true" toShortenFQNames="true">
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
     <variable name="content" expression="groovyScript(&quot;def result=''; _1.each { item -&gt; result = result + item + '=%s, '}; return result;&quot;, methodParameters()); " defaultValue="" alwaysStopAt="true" />
-    <variable name="parameterNames" expression="groovyScript(&quot;def result=''; _1.eachWithIndex { item,index -&gt; result = result + item; if(index &lt; _1.size()-1) result=result + ','; }; return result;&quot;, methodParameters()); " defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="loggervv" value="Logger.v(&quot;$METHOD_NAME$: $content$ &quot;, $parameterNames$);" description="Logger.v(String,asdf)" toReformat="true" toShortenFQNames="true">
+  <template name="loggerv" value="Logger.v(&quot;$METHOD_NAME$: $content$ &quot;, $parameterNames$);" description="Logger.v(String,asdf)" toReformat="true" toShortenFQNames="true">
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
     <variable name="content" expression="groovyScript(&quot;def result=''; _1.each { item -&gt; result = result + item + '=%s, '}; return result;&quot;, methodParameters()); " defaultValue="" alwaysStopAt="true" />
     <variable name="parameterNames" expression="groovyScript(&quot;def result=''; _1.eachWithIndex { item,index -&gt; result = result + item; if(index &lt; _1.size()-1) result=result + ','; }; return result;&quot;, methodParameters()); " defaultValue="" alwaysStopAt="true" />
@@ -93,6 +91,20 @@
   </template>
   <template name="loggerdst" value="Logger.dStacktrace(&quot;$METHOD_NAME$: Stack trace&quot;);" description="Logger stack trace" toReformat="true" toShortenFQNames="true">
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="loggerww" value="Logger.w(&quot;$METHOD_NAME$: $content$&quot;);" description="Logger.w(String)" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="loggerwtf" value="Logger.wtf(e,&quot;$METHOD_NAME$: $content$&quot;);" description="Logger.wtf(String)" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
     </context>

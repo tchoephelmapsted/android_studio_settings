@@ -36,8 +36,8 @@
     <mask>AndroidManifest.xml</mask>
     <mask>build.gradle,*.java</mask>
     <mask>build.gradle</mask>
-    <mask>*.java</mask>
     <mask>*.gradle</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>

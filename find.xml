@@ -7,7 +7,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <mask>*Fragment*.java</mask>
+    <option name="FILE_MASK" value="androidmanifest.xml" />
     <mask>Mapsted*.java</mask>
     <mask>*.txt</mask>
     <mask>*.txt,*.pro</mask>
@@ -37,5 +37,6 @@
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.gradle</mask>
+    <mask>androidmanifest.xml</mask>
   </component>
 </application>

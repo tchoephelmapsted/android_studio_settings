@@ -19,6 +19,9 @@
     <keyboard-shortcut first-keystroke="alt 0" />
     <keyboard-shortcut first-keystroke="alt numpad0" />
   </action>
+  <action id="Android.SyncProject">
+    <keyboard-shortcut first-keystroke="ctrl alt g" />
+  </action>
   <action id="ChangesView.Diff" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />

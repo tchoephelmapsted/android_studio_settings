@@ -55,13 +55,13 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="loggertimestart" value="Logger.trackTimeStart(&quot;$key$&quot;);" description="Logger.trackTimeStart" toReformat="true" toShortenFQNames="true">
+  <template name="logtimestart" value="LogTime.getInstance().start(&quot;$key$&quot;);" description="LogTime.getInstance().trackTimeStart" toReformat="true" toShortenFQNames="true">
     <variable name="key" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="loggertimeend" value="Logger.trackTimeEnd(&quot;$key$&quot;);" description="Logger.trackTimeEnd" toReformat="true" toShortenFQNames="true">
+  <template name="logtimeend" value="LogTime.getInstance().end(&quot;$key$&quot;);" description="LogTime.getInstance().trackTimeEnd" toReformat="true" toShortenFQNames="true">
     <variable name="key" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />

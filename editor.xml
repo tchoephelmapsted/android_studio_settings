@@ -11,7 +11,9 @@
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="15" />
-    <option name="FONT_FAMILY" value="Fira Code Retina" />
+    <option name="FONT_FAMILY" value="Fira Code" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="Retina" />
+    <option name="FONT_BOLD_SUB_FAMILY" value="Retina" />
     <option name="LINE_SPACING" value="1.1" />
     <option name="SECONDARY_FONT_FAMILY" value="Fira Code Medium" />
   </component>
@@ -29,7 +31,7 @@
         <entry key="yaml" value="true" />
       </map>
     </option>
-    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc;*.java, *.xml" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>

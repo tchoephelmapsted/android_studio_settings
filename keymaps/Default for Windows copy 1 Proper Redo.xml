@@ -18,6 +18,7 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt period" />
+    <keyboard-shortcut first-keystroke="alt decimal" />
   </action>
   <action id="Android.SyncProject">
     <keyboard-shortcut first-keystroke="ctrl alt g" />

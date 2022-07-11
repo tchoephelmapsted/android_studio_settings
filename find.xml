@@ -9,6 +9,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.gradle" />
     <mask>*.txt,*.pro</mask>
     <mask>dexguard*, proguard*</mask>
     <mask>*.dexguard, *.proguard</mask>
@@ -36,8 +37,8 @@
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>androidmanifest.xml</mask>
-    <mask>*.gradle</mask>
     <mask>*.xml,*.java</mask>
     <mask>*DialogFragment.java</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>

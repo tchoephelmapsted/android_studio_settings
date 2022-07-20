@@ -30,14 +30,14 @@
     <mask>assume*.pro</mask>
     <mask>strings.xml</mask>
     <mask>build.gradle,*.java</mask>
-    <mask>build.gradle</mask>
     <mask>*.xml</mask>
     <mask>androidmanifest.xml</mask>
-    <mask>*.xml,*.java</mask>
     <mask>*DialogFragment.java</mask>
     <mask>*.gradle</mask>
     <mask>*.java</mask>
     <mask>Android.*\.xml</mask>
     <mask>AndroidManifest.xml</mask>
+    <mask>build.gradle</mask>
+    <mask>*.xml,*.java</mask>
   </component>
 </application>

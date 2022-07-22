@@ -9,7 +9,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.xml,*.java" />
+    <option name="FILE_MASK" value="build.gradle" />
     <mask>dexguard*, proguard*</mask>
     <mask>*.dexguard, *.proguard</mask>
     <mask>LibraryInfo.java</mask>
@@ -38,7 +38,7 @@
     <mask>*.java</mask>
     <mask>Android.*\.xml</mask>
     <mask>AndroidManifest.xml</mask>
-    <mask>build.gradle</mask>
     <mask>*.xml,*.java</mask>
+    <mask>build.gradle</mask>
   </component>
 </application>

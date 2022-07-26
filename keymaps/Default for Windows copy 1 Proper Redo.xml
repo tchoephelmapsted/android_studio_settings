@@ -24,6 +24,9 @@
   <action id="Android.SyncProject">
     <keyboard-shortcut first-keystroke="ctrl alt g" />
   </action>
+  <action id="AndroidLogConsole.MyRestartAction">
+    <keyboard-shortcut first-keystroke="ctrl alt 6" second-keystroke="r" />
+  </action>
   <action id="ChangesView.Diff" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />

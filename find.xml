@@ -25,7 +25,6 @@
     <mask>assume*.pro</mask>
     <mask>strings.xml</mask>
     <mask>build.gradle,*.java</mask>
-    <mask>*.xml</mask>
     <mask>androidmanifest.xml</mask>
     <mask>*DialogFragment.java</mask>
     <mask>Android.*\.xml</mask>
@@ -35,5 +34,6 @@
     <mask>*.xml,*.java</mask>
     <mask>*.gradle</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
